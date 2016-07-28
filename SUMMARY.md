@@ -1,7 +1,18 @@
-bui# Summary
+# Summary
 
 * [介绍](introduction/index.md)
     * [资料收集整理](introduction/information.md)
-* [Tips]()
+* [安装](installation/index.md)
+    * [安装artifactory](installation/artifactory.md)
+    * [maven 设置文件](installation/settings.md)
+* [操作](operation/index.md)
+    * [部署](operation/deploy/deploy.md)
+    * [deploy plugin(翻译)](operation/deploy/plugin/introduction.md)
+    	* [Goals](operation/deploy/plugin/goals.md)
+    	* [使用](operation/deploy/plugin/usage.md)
+    	* [使用FTP部署](operation/deploy/plugin/deployment_with_ftp.md)
+    	* [外部SSH部署](operation/deploy/plugin/deploy_ssh_external.md)
+* [Tips](tips/index.md)
     * [批量更新版本](tips/version_update.md)
+
 

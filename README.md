@@ -1,13 +1,11 @@
-Maven学习笔记
-===========
+# Maven学习笔记
 
-> 注: 如果你看到的是github的源代码, 请点击 [这里](http://skyao.github.io/leaning-maven/) 查看html内容.
+## 介绍
 
-# 介绍
+Maven学习笔记.
 
-Maven学习笔记
+## 导航
 
-# 章节内容
+如果看到的是github的源代码, 请点击下面的链接:
 
-* [介绍](introduction/index.md)
-    * [资料收集整理](introduction/information.md)
+[Maven学习笔记@gitbook](https://skyao.gitbooks.io/leaning-maven/)
