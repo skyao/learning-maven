@@ -1,5 +1,6 @@
 # 部署
 
+部署artifact到maven仓库。
 
 ## 参考资料
 
