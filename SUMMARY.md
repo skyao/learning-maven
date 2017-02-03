@@ -15,6 +15,7 @@
     	* [外部SSH部署](operation/deploy/plugin/deploy_ssh_external.md)
 * [Tips](tips/index.md)
     * [批量更新版本](tips/version_update.md)
+    * [显示更新](tips/display_update.md)
 * [发布](publish/index.md)
 	* [发布到中央仓库](publish/central/index.md)
 * [全文标签总览](tags.md)
