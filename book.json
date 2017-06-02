@@ -22,7 +22,7 @@
   ],
   "pluginsConfig": {
     "edit-link": {
-        "base": "https://github.com/skyao/leaning-maven/edit/master",
+        "base": "https://github.com/skyao/learning-maven/edit/master",
         "label": "Edit"
     }
   },
