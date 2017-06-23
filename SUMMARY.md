@@ -18,5 +18,6 @@
     * [显示更新](tips/display_update.md)
 * [发布](publish/index.md)
 	* [发布到中央仓库](publish/central/index.md)
+* [Intellij Idea](idea/index.md)
 * [全文标签总览](tags.md)
 
