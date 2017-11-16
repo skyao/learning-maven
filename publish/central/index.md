@@ -294,6 +294,12 @@ https://oss.sonatype.org/
 
 第一次发布时，需要回到issue页面回复。然后等待审批。
 
+### 验证中央仓库
+
+同样上述步骤完成10分钟之后就可以同步到maven中央仓库，可以通过直接浏览仓库的方式做验证，比如访问下列地址：
+
+http://repo1.maven.org/maven2/io/openfoundation/
+
 ## gpg错误处理
 
 mvn命令执行中，在每个构件上传时，都会要求输入密码，注意错误信息：
