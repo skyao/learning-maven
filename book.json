@@ -19,7 +19,7 @@
     "edit-link",
     "page-toc-button",
     "back-to-top-button",
-    "github-buttons@2.1.0"
+    "github-buttons@2.1.0",
     "tags"
   ],
   "pluginsConfig": {
