@@ -46,6 +46,6 @@ Maven Helper 提供：
 
 - 打开 pom 文件，点底下的 "Dependency Analyzer" tab，
 
-Open pom file, click on 'Dependency Analyzer' tab, right click in the tree for context actions.
+
 
 
