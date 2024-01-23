@@ -1,4 +1,12 @@
-# 安装Maven
+---
+title: "安装Maven"
+linkTitle: "安装Maven"
+weight: 10
+date: 2021-01-29
+description: >
+  安装Maven
+---
+
 
 ## linux 安装
 
